@@ -784,12 +784,12 @@ Code sandbox
 </td>
 <td valign="center">
 
-[🗂️ examples/src/components/VueJs.vue](https://github.com/json-schema-form-element/examples/blob/main/src/components/VueJs.vue)
+[🗂️ examples/src/components/SvelteJs.svelte](https://github.com/json-schema-form-element/examples/blob/main/src/components/SvelteJs.svelte)
 
 </td>
 <td valign="center" align="center">
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/json-schema-form-element/examples?file=src%2Fcomponents%2FVueJs.vue)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/json-schema-form-element/examples?file=src%2Fcomponents%2FSvelteJs.svelte)
 
 </td>
 </tr>
